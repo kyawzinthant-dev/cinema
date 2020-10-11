@@ -7,10 +7,9 @@ const App = () => {
   return (
     <Provider store={store}>
       <div className="app">
-          <h1>Setup React Redux</h1>
+        <h1>Setup React Redux</h1>
       </div>
     </Provider>
-
   );
 };
 
